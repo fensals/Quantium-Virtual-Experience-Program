@@ -4,16 +4,8 @@ This repository contains all files used and scripts created for the tasks i perf
 
 These tasks work through a common narrative, designed to replicate life in the Retail Analytics and Strategy team at Quantium.
 
-Task 1: Data Preparation and Customer Analytics  was performed using Python. 
+Task 1: Data Preparation and Customer Analytics (Python). 
   
-  Insights from Task 1:
-  
-    Budget-Older families, Mainstream-Young Singles/Couples, and Mainstream Retirees contribute the most to Total sales.
+Task 2: Experimentation and Uplift Testing (R).
 
-    There are more Mainstream-Young Singles/Couples and Mainstream-Retirees customers, which explains their huge contribution to  Total sales.
-
-    Although there arent many Budget-Older families, their high frequency of purchase is the reason why they contribute more to Total Sales.
-
-    175g pack sized chips are the most purchased.
-
-    Mainstream-Young Singles/Couples aren't really deterred by high prices and seem more interested in 270g pack sizes and Tyrells chips
+Task 3: Analytics and commercial application / Report 
